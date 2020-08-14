@@ -38,6 +38,11 @@ let interestes = [
   <a href="https://linkedin.com/in/nipunbharti"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunbharti&theme=buefy&layout=compact" alt="nipunbharti" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nipunbharti&show_icons=true" alt="nipunbharti" />
 </p>
