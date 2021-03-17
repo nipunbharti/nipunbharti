@@ -23,7 +23,7 @@ let programmingStuffIKnow = [
   "C/C++"
 ];
 
-let interestes = [
+let interests = [
   "JavaScript",
   "Scaling Software Systems",
   "Async programming"
